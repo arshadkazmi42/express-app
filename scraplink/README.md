@@ -1,7 +1,3 @@
-# express-app
-
-Boiler plate for REST API in express. Ready to use basic express setup
-
 ## Setup
 
 1. Run `npm install` in root directory
