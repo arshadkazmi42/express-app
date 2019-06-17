@@ -7,7 +7,7 @@ Boiler plate for REST API in express. Ready to use basic express setup
 1. Run `npm install` in root directory
 2. To start the api server `node server.js`
 
-## API
+## Route (Dummy)
 
 - `api/compose/express/app`
 
